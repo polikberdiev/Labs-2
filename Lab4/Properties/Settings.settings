@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lab4.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Projects\2017-2018.NET.MMF.BSU\src\Lab4\data\xml</Value>
+    </Setting>
+    <Setting Name="SearchXPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">docID</Value>
+    </Setting>
+    <Setting Name="ThreadsCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
